@@ -28,5 +28,5 @@ EV Related Data collected from various sources
    - year -
    - description - State wise Electric Vehicles Supported under Faster Adoption and Manufacturing of Electric and Hybrid Vehicles in India (FAME-India) Scheme as on 09-12-2021
 
- - 108
-   - year - 
+
+Now the datasets obtained using web scrapping
